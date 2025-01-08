@@ -2,12 +2,12 @@
 #### I am a Software Engineering student
 I am passionate about learning stuff and starting my career as a developer.
 
-Skills: 
-💻 HTML / CSS / JS /
-🐍 Python
-🛠️ .NET Development
+Skills: \
+💻 HTML / CSS / JS \
+🐍 Python \
+🛠️ .NET Development 
 
-- 🌱 I’m currently learning more about UI/UX development 
+- 🌱 I’m currently learning more about responsive design and web development
 - 📫 How to reach me: hrehulvolodymyr@gmail.com 
 
 
