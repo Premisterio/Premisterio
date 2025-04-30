@@ -1,14 +1,22 @@
-### Hi there 👋,  It's Volodymyr
-#### I am a Software Engineering student
-I am passionate about learning stuff and starting my career as a developer.
+### Hi there 👋 I'm Volodymyr
 
-Skills: \
-💻 HTML / CSS / JS \
-🐍 Python \
-🛠️ .NET Development 
+#### 🎓 Software Engineering student | Aspiring Full-Stack Developer
 
-- 🌱 I’m currently learning more about responsive design and web development
-- 📫 How to reach me: hrehulvolodymyr@gmail.com
+I'm passionate about building software that solves real-world problems. Currently developing full-stack applications using Python, React, and .NET, and diving deeper into web architecture, API design, and cloud deployment.
+
+---
+
+### 🛠️ Tech Stack
+- 💻 Frontend: HTML / CSS / JavaScript / React / Vite
+- 🐍 Backend: Python / FastAPI / Django REST Framework
+- 🛠️ Other: .NET (C#), PostgreSQL, Git, Docker
+
+---
+
+### 📫 Connect with me
+- Email: hrehulvolodymyr@gmail.com  
 - [🔗 LinkedIn](https://www.linkedin.com/in/volodymyr-hrehul/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premisterio)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premisterio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
