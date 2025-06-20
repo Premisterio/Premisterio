@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Volodymyr
 
-#### 🎓 Software Engineering student | Aspiring Full-Stack Developer
+#### 🎓 Software Engineering student
 
-I'm passionate about building software that solves real-world problems. Currently developing full-stack applications using Python, React, and .NET, and diving deeper into web architecture, API design, and cloud deployment.
+Currently learning full-stack applications using React, and diving deeper into web architecture, API design, and cloud deployment.
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Frontend: HTML / CSS / JavaScript / React / Vite
-- 🐍 Backend: Python / FastAPI / Django REST Framework
+- 💻 Frontend: HTML / Tailwind / JavaScript / React + Vite
+- 🐍 Backend: Python / FastAPI / Django REST Framework / Node.js
 - 🛠️ Other: .NET (C#), PostgreSQL, Git, Docker
 
 ---
@@ -16,6 +16,7 @@ I'm passionate about building software that solves real-world problems. Currentl
 ### 📫 Connect with me
 - Email: hrehulvolodymyr@gmail.com  
 - [🔗 LinkedIn](https://www.linkedin.com/in/volodymyr-hrehul/)
+- Telegram: @premisterio
 
 ---
 
