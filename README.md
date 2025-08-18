@@ -7,7 +7,7 @@ Currently learning full-stack applications using React, and diving deeper into w
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Frontend: HTML / Tailwind / JavaScript / React + Vite
+- 💻 Frontend: HTML / Tailwind / JavaScript / TypeScript / React + Vite
 - 🐍 Backend: Python / FastAPI / Django REST Framework / Node.js
 - 🛠️ Other: .NET (C#), PostgreSQL, Git, Docker
 
