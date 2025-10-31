@@ -2,14 +2,16 @@
 
 #### 🎓 Software Engineering student
 
-Currently learning full-stack applications using React, and diving deeper into web architecture, API design, and cloud deployment.
+I work with React and Angular on the frontend, and Node.js & Python on the backend. 
+Experienced with both relational and non-relational databases, depending on project needs.
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Frontend: HTML / Tailwind / JavaScript / TypeScript / React + Vite
-- 🐍 Backend: Python / FastAPI / Django REST Framework / Node.js
-- 🛠️ Other: .NET (C#), PostgreSQL, Git, Docker
+- 💻 Frontend: React / Angular
+- 🐍 Backend: Python / Node.js
+- 💽 DB: SQL & No-SQL
+- 🛠️ Other: .NET (C#), Git, Docker
 
 ---
 
