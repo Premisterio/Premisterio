@@ -19,7 +19,3 @@ Experienced with both relational and non-relational databases, depending on proj
 - Email: hrehulvolodymyr@gmail.com  
 - [🔗 LinkedIn](https://www.linkedin.com/in/volodymyr-hrehul/)
 - Telegram: @premisterio
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premisterio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
